@@ -1,3 +1,6 @@
+# Демо проекта
+<img src="./assets/demo.gif" width="50%" >
+
 # Установка проекта на OpenServer
 
 ## Требования
