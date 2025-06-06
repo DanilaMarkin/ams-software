@@ -1,5 +1,5 @@
 # Демо проекта
-<img src="./assets/demo.gif" width="50%" >
+<img src="./assets/demo.gif" width="80%" >
 
 # Установка проекта на OpenServer
 
